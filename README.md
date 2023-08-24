@@ -48,6 +48,29 @@ Demo 🎥
 Explore SkyScope in action by watching our engaging demo video! Witness how effortlessly you can retrieve real-time weather information for cities around the world. Whether you're planning a trip or simply curious about meteorological conditions, our demo will showcase the seamless experience that SkyScope offers.
 
 
+## Tools Used 🛠️
+
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <img src="images/python.png" width="48" height="48" alt="Python" />
+      <br>Python 
+    </td>
+    <td align="center" width="170">
+      <img src="images/restful.png" width="45" height="45" alt="Github" />
+      <br>Weather API
+    </td>
+    <td align="center" width="170">
+      <img src="images/PyCharm.png" width="45" height="45" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="170">
+      <img src="images/github.png" width="45" height="45" alt="Github" />
+      <br>Github
+    </td>
+  </tr>
+ 
+</table>
 
 
 ## Contributions and Feedback 🤝
