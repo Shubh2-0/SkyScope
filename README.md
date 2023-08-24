@@ -54,15 +54,15 @@ Explore SkyScope in action by watching our engaging demo video! Witness how effo
 
 Contributions and feedback are enthusiastically welcomed! Here's how you can contribute:
 
-Fork the Repository: Begin by forking the repository to your GitHub account.
+📌 Fork the Repository: Begin by forking the repository to your GitHub account.
 
-Create a Feature Branch: Craft a new branch for your feature: git checkout -b feature/YourFeatureName.
+📌 Create a Feature Branch: Craft a new branch for your feature: git checkout -b feature/YourFeatureName.
 
-Commit Your Changes: Commit your changes alongside a descriptive message: git commit -m 'Introducing an exciting feature'.
+📌 Commit Your Changes: Commit your changes alongside a descriptive message: git commit -m 'Introducing an exciting feature'.
 
-Push Your Branch: Push your feature branch to your repository: git push origin feature/YourFeatureName.
+📌 Push Your Branch: Push your feature branch to your repository: git push origin feature/YourFeatureName.
 
-Open a Pull Request: Submit a pull request for merging your changes.
+📌 Open a Pull Request: Submit a pull request for merging your changes.
 
 ## Acknowledgments and Credits 🙏
 
