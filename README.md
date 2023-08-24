@@ -2,6 +2,8 @@
 
 Welcome to SkyScope, your go-to weather information application developed in Python. SkyScope allows you to effortlessly access real-time weather data for cities around the world. Whether you're planning a trip, staying informed about your local weather, or simply curious about meteorological conditions, SkyScope has you covered.
 
+(poster)[images/poster.png]
+
 ## Features and Highlights ✨
 
 - 🌦️ **Real-Time Weather:** Instantly retrieve the current weather details for any city.
