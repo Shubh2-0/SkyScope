@@ -94,3 +94,9 @@ SkyScope effectively leverages the capabilities of the WeatherAPI for obtaining 
 We extend our gratitude to the open-source community for their invaluable contributions.
 
 🌞 Embrace the skies with SkyScope! Gain meteorological insights, stay informed, and experience weather like never before.
+
+## Contact 📲
+If you want to contact me, you can reach me through below handles.
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shubham-bhati-787319213/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
