@@ -24,7 +24,7 @@ Welcome to SkyScope, your go-to weather information application developed in Pyt
    
 **API Key Acquisition: To utilize SkyScope's weather data, sign up at WeatherAPI to obtain your API key.**
 
-Running the Application: Execute the skyscope.py script to initiate the application:
+2. **Running the Application:** Execute the skyscope.py script to initiate the application:
 
 ```
 python app.py
