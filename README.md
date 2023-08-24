@@ -17,27 +17,35 @@ Welcome to SkyScope, your go-to weather information application developed in Pyt
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine:
 
-   ```sh
-   git clone https://github.com/yourusername/skyscope.git
+   ```
+   git clone https://github.com/Shubh2-0/skyscope.git
+
+   ```
+   
 API Key Acquisition: To utilize SkyScope's weather data, sign up at WeatherAPI to obtain your API key.
 
 Running the Application: Execute the skyscope.py script to initiate the application:
 
-sh
-Copy code
-python skyscope.py
+```
+python app.py
+```
+
 City Selection: Input the name of the city you'd like to get weather information about.
 
 Usage Example 🌤️
 Imagine you're curious about the weather in Paris:
 
-sh
-Copy code
+```
 Enter the name of the city: Paris
 The application will promptly provide you with the latest weather insights for Paris.
+```
 
-Screenshots and Demos 📸🎥
-Insert captivating screenshots demonstrating the application in action or provide links to engaging demo videos.
+Demo 🎥
+
+Explore SkyScope in action by watching our engaging demo video! Witness how effortlessly you can retrieve real-time weather information for cities around the world. Whether you're planning a trip or simply curious about meteorological conditions, our demo will showcase the seamless experience that SkyScope offers.
+
+
+
 
 Contributions and Feedback 🤝
 Contributions and feedback are enthusiastically welcomed! Here's how you can contribute:
