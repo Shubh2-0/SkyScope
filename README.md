@@ -43,7 +43,7 @@ Enter the name of the city: Paris
 The application will promptly provide you with the latest weather insights for Paris.
 
 
-Demo 🎥
+## Demo 🎥
 
 Explore SkyScope in action by watching our engaging demo video! Witness how effortlessly you can retrieve real-time weather information for cities around the world. Whether you're planning a trip or simply curious about meteorological conditions, our demo will showcase the seamless experience that SkyScope offers.
 
