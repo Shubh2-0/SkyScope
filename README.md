@@ -38,8 +38,10 @@ Imagine you're curious about the weather in Paris:
 
 ```
 Enter the name of the city: Paris
-The application will promptly provide you with the latest weather insights for Paris.
 ```
+
+The application will promptly provide you with the latest weather insights for Paris.
+
 
 Demo 🎥
 
